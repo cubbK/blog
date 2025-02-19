@@ -1,0 +1,30 @@
+# Hugo-generated files
+/public/
+/resources/
+/assets/js/bundle.js
+/hugo_stats.json
+
+# Hugo cache files
+/.hugo_build.lock
+
+# Dependency directories
+/node_modules/
+/.vendor/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor backup files
+*.swp
+*.swo
+*~
+
+# Logs and temporary files
+*.log
+*.bak
+
+# Hugo executable (if copied locally)
+hugo.exe
+hugo
+.vscode
