@@ -13,13 +13,11 @@ The payed part can be ignored even though it's a pain to switch tools every new 
 
 I've been using draw.io and exporting pngs for quite a while but recently I discovered a vscode plugin that fixed it all for me.
 
-[Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
-
 A vscode plugin that lets you make a `diagram.drawio.svg` file(notice the .svg), edit it as a drawio diagram and just save it back!
 
 It saves it as an svg without having to export anything and it still contains the diagram emmbeded into the svg so it can be eddited again! No more manual exports or sharing links to miro!
 
-![drawio ](drawio1.png)
+![drawio](/drawio1.png)
 
 I like it and will continue using it further.
 
