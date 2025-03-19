@@ -12,6 +12,8 @@
 	<div class="main">
 		<a href="{{ absLangURL "/" }}">{{ .Site.Title }}</a>
 	</div>
+	<p>Dan Popa. What I do in Software Development. Employed at H&M</p>
+	
 	<nav>
 		{{ range .Site.Menus.main }}
 		<a href="{{ .URL }}">{{ .Name }}</a>
@@ -21,4 +23,6 @@
 		<script src="{{ absURL "js/themetoggle.js" }}"></script>
 		{{ end }}
 	</nav>
+	<script data-goatcounter="https://cubbk.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </header>
