@@ -1,6 +1,6 @@
 +++
 date = '2025-03-17T15:32:54+01:00'
-draft = true
+draft = false
 title = 'How I Autogenerate TypeScript for API Contracts'
 +++
 
